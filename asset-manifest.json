@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ad163b1a.css",
+    "main.js": "/static/js/main.d5367aa1.js",
+    "static/media/contact.png": "/static/media/contact.bd3374eea9582590071b.png",
+    "static/media/pageheader.png": "/static/media/pageheader.93b2b059c303a1e00fbb.png",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
+    "static/media/main1.jpg": "/static/media/main1.03f1f473012512e608fa.jpg",
+    "static/media/main3.jpg": "/static/media/main3.9f8b3675728dbbbe94d2.jpg",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
+    "static/media/AiPill.png": "/static/media/AiPill.9b6115efc94c763a33d7.png",
+    "static/media/admin1.jpg": "/static/media/admin1.5378b30e9969ac7ced8b.jpg",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
+    "static/media/admin2.jpg": "/static/media/admin2.43e45f29e69b2f85047f.jpg",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
+    "static/media/professor2.jpg": "/static/media/professor2.adb31507ffd86ae3ecb1.jpg",
+    "static/media/main2.jpg": "/static/media/main2.3a9eb9173dcb6665f8a1.jpg",
+    "static/media/professor5.jpg": "/static/media/professor5.a4d68af4a20611c90a99.jpg",
+    "static/media/chae-song-hwa.png": "/static/media/chae-song-hwa.7e9a60162d8f1cb45552.png",
+    "static/media/professor4.jpg": "/static/media/professor4.8a413dc2f4c4e29f5790.jpg",
+    "static/media/professor3.jpg": "/static/media/professor3.da631c1018963a705d5e.jpg",
+    "static/media/purpose.jpg": "/static/media/purpose.5ed8804342d4f87c423c.jpg",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
+    "static/media/extended_healthcheckup.xlsx": "/static/media/extended_healthcheckup.49c1a5b0e9094bc4f5eb.xlsx",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
+    "index.html": "/index.html",
+    "main.ad163b1a.css.map": "/static/css/main.ad163b1a.css.map",
+    "main.d5367aa1.js.map": "/static/js/main.d5367aa1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad163b1a.css",
+    "static/js/main.d5367aa1.js"
+  ]
+}
